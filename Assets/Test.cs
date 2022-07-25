@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    private string git = "1.0";
+    private string git = "2.0";
     // Start is called before the first frame update
     void Start()
     {
